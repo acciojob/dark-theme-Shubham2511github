@@ -1,5 +1,12 @@
+body{
+	text-align: center;
+}
 #app{
   height:90vh;
+}
+.day{
+	background-color: white;
+	color: black;
 }
 .night{
   background-color: black;
@@ -10,6 +17,10 @@
   outline:0;
 }
 
+.button_day{
+	background-color: #0088cc;
+	color: #f4f4f4;
+}
 .button_night{
   background-color:blue;
   color:white; 
