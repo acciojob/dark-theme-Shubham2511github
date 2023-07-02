@@ -1,27 +1,27 @@
-body{
-	text-align: center;
-}
-#app{
-  height:90vh;
-}
-.day{
-	background-color: white;
-	color: black;
-}
-.night{
-  background-color: black;
-  color:white;
+#app {
+  height: 90vh;
 }
 
-#swap{
-  outline:0;
+.day {
+  background-color: #f4f4f4;
+  color: #333;
 }
 
-.button_day{
-	background-color: #0088cc;
-	color: #f4f4f4;
+.night {
+  background-color: #333;
+  color: #f4f4f4;
 }
-.button_night{
-  background-color:blue;
-  color:white; 
+
+#swap {
+  outline: 0;
+}
+
+.button_day {
+  background-color: #0088cc;
+  color: #f4f4f4;
+}
+
+.button_night {
+  background-color: #222;
+  color: #f4f4f4;
 }
